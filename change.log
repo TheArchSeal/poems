@@ -1,0 +1,4 @@
+Compiler warnings left ignored.
+Leaking memory and freeing none.
+Exponential complexity we cannot afford.
+Who cares about segfaults once their process is done?
