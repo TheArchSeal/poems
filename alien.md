@@ -16,7 +16,7 @@ Paralyzed by inaction.
 Every sound melding into one.  
 Every alloy equally indiscernible.  
 The bass resonating in a tense chest.  
-the joy screeching in bleeding ears.  
+The joy screeching in bleeding ears.  
 
 Exhausting.  
 Overwhelming.  
