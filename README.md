@@ -12,3 +12,4 @@
 * [good.txt](/good.txt)
 * [alien.md](/alien.md)
 * [echoes.md](/echoes.md)
+* [fizzbuzz.py](/fizzbuzz.py)
