@@ -13,3 +13,4 @@
 * [alien.md](/alien.md)
 * [echoes.md](/echoes.md)
 * [fizzbuzz.py](/fizzbuzz.py)
+* [rot.md](/rot.md)
